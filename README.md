@@ -4,9 +4,11 @@
 <img width="1280" height="720" alt="Yaqeen Alhalal" src="https://github.com/user-attachments/assets/bc09d2a4-e68e-448b-9513-51351285d236" />
 
 
-- 📫 How to reach me **https://www.linkedin.com/in/yaqeen-alhalal-8388541a3/**
+<br/>
 
 - ⚡ Fun fact **I love learning human languages as much as I love learning computer languages**
+
+<br/>
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" style="width: 350px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" />
