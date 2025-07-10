@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Yaqeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaqeenData&theme=radical)](https://github.com/YaqeenData)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqeenData&size_weight=0.5&count_weight=0.5)
