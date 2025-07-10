@@ -8,9 +8,10 @@
 
 - ⚡ Fun fact **I love learning human languages as much as I love learning computer languages**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" alt="yaqeendata" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" alt="yaqeendata" /></p>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" alt="GitHub Streak" />
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
