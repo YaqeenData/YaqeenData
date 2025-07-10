@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yaqeen</h1>
-<h3 align="center">A Junior Data Scienitist</h3>
+<h3 align="center">A Junior Data Scientist</h3>
 
 <img width="1280" height="720" alt="Yaqeen Alhalal" src="https://github.com/user-attachments/assets/bc09d2a4-e68e-448b-9513-51351285d236" />
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/yaqeen-alhalal-8388541a3/**
 
-- ⚡ Fun fact **I love learning human languages as I love learning computer languages**
+- ⚡ Fun fact **I love learning human languages as much as I love learning computer languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yn01me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yn01me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yaqeen alhalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaqeen alhalal" height="30" width="40" /></a>
-<a href="https://kaggle.com/yaqeenalhalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yaqeenalhalal" height="30" width="40" /></a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" alt="yaqeendata" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" alt="yaqeendata" /></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -62,6 +60,9 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" alt="yaqeendata" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" alt="yaqeendata" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yn01me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yn01me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yaqeen alhalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaqeen alhalal" height="30" width="40" /></a>
+<a href="https://kaggle.com/yaqeenalhalal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yaqeenalhalal" height="30" width="40" /></a>
+</p>
