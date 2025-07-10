@@ -7,17 +7,10 @@
 - 📫 How to reach me **https://www.linkedin.com/in/yaqeen-alhalal-8388541a3/**
 
 - ⚡ Fun fact **I love learning human languages as much as I love learning computer languages**
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" width="400" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaqeendata&theme=radical&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqeendata&theme=radical" alt="GitHub Streak" height="200"/>
+</p>
 
 
 
