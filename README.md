@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaqeen</h1>
+<h1 align="center">Hi 👋🏻, I'm Yaqeen</h1>
 <h3 align="center">A Data Engineer</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
