@@ -40,11 +40,7 @@ I'm Yaqeen Alhalal, a Data Engineer from Saudi Arabia 🇸🇦<br><br>
     height="150"
     alt="GitHub Streak"
   />
-
-  <br>
-  <br>
-
-
+  <img width="10" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaqeenData&layout=compact&theme=dracula&hide_border=false"
     height="150"
