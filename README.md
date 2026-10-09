@@ -7,8 +7,10 @@
 <h1 align="center">Hi 👋🏻, I'm Yaqeen!</h1>
 
 <h3 align="center">A Data Engineer 👩🏻‍💻</h3>
-
-###
+<div align="center">
+  
+<img height="250" width=800 src="assets/GitHubHeader.png" />
+</div>
 
 <h3 align="left">👩🏻‍💻 About Me</h3>
 
