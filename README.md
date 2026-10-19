@@ -20,7 +20,7 @@
 I'm Yaqeen Alhalal, a Data Engineer from Saudi Arabia 🇸🇦<br><br>
 
 • I enjoy building data pipelines and systems that turn messy, scattered data into something reliable and useful.<br>
-• I thrive on hard problems — debugging, figuring out how systems fit together, and making things actually work is what drew me to Data Engineering.<br>
+• I thrive on hard problems through debugging, figuring out how systems fit together, and making things actually work is what drew me to Data Engineering.<br>
 • My interests include data pipelines, orchestration, data quality, APIs, cloud technologies, and stream processing.<br><br>
 • Fluent in English, Python, and SQL. 😉<br>
 • Currently learning Italian 🇮🇹, Russian 🇷🇺, Arabic Sign Language 🤟🏻, and stream processing.
